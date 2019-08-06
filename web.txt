@@ -1,5 +1,6 @@
 <html>
     <head>
+<title> table </title>
         <title>WELCOME</title>
         <title>DEVIGA</title>
     </head>
@@ -25,6 +26,11 @@
             <li>banana</li>
             <li>banana</li>
         </ul>
- <title> table </title>
+    <ul>
+            <li>mango</li>
+            <li>apple</li>
+            <li>banana</li>
+            <li>banana</li>
+        </ul>
     </body>
 </html>
